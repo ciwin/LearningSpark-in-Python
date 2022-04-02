@@ -3,6 +3,8 @@ This is my repository of my Spark experiments while reading the book *Learning S
 
 I only run the experiments in Python. The book contains code snippets in Python, Scala and Java. In the book, not all snippets and programs are available in all languages. I will try to  write all snippets in executable and tested Python code (mostly in Jupyter Notebooks).
 
+This repository also contains the end-to-end examples from the book's github repository, which are originally saved in a Databricks Notebook (.dbc file). I have converted them into Jupyter Notebooks and saved them in the folder `BookExamples`.
+
 ## Status
 
 Chapter 2 is done. I am currently working on chapter 3.
