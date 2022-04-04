@@ -1,9 +1,16 @@
-﻿
+
 # Chapter 2
 
-Chapter 2 of the book contains a first Spark example. We will explain how to run it on your machine. 
+Chapter 2 of the book contains some first Spark examples. We will explain how to run it on your machine. 
 
-## The task
+## Reading a text into a Spark DataFrame
+
+This is a very simple first task to test your Spark environment. The Task is to read a text file from disk into a Spark DataFrame and print out the first 1o lines of the text.
+
+This was realised in a Python Jupyter Notebook in the file `Chapter-02.ipynb`. 
+
+## The M&M task
+
 The task of the program is to analyze a data describing the consumption of M&Ms in different colors on events in different states. The file `mnm_dataset.csv`contains 100,000 lines of data points. Each data points describes the consumption of M&Ms in a certain color on an event in a certain state. Here is an example of the data points in the file:
 ```
 State,Color,Count
