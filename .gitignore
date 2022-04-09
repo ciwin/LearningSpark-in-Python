@@ -1,2 +1,3 @@
 data/sf-fire-calls.csv
 .ipynb_checkpoints/*
+spark-warehouse/*
