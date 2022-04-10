@@ -7,7 +7,7 @@ This repository also contains the end-to-end examples from the book's [github re
 
 ## Status
 
-Chapter 2 is done. I am currently working on chapter 3.
+Chapter 3 is almoste done including the end-to-end example with the data set from the San Francisco Fire Department Calls. The DataSet examples at the end of tchapter 3 are still missing.
 
-*Christoph Windheuser - April 2, 2022*
+*Christoph Windheuser - April 10, 2022*
 
