@@ -1,4 +1,4 @@
 data/sf-fire-calls.csv
-data/FireServiceParquet
+data/fireServiceParquet
 .ipynb_checkpoints
 spark-warehouse
