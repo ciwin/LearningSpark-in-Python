@@ -10,7 +10,7 @@ This repository also contains the end-to-end examples from the book's [github re
 
 ## Status
 
-Chapter 2 done. Working on the IoT end-to-end example in chapter 3. 
+Chapter 2 and 3 done. Working on chapter 4 now. 
 
-*Christoph Windheuser - April 13, 2022*
+*Christoph Windheuser - April 14, 2022*
 
