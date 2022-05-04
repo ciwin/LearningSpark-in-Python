@@ -2,3 +2,4 @@ data/sf-fire-calls.csv
 data/fireServiceParquet
 .ipynb_checkpoints
 spark-warehouse
+metastore_db
