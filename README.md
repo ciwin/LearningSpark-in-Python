@@ -10,7 +10,7 @@ This repository also contains the end-to-end examples from the book's [github re
 
 ## Status
 
-Chapter 2 and 3 done. Working on chapter 4 now. 
+Chapter 2-4 done. Working on chapter 5 now. 
 
-*Christoph Windheuser - May 4, 2022*
+*Christoph Windheuser - May 5, 2022*
 
