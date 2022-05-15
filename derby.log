@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Thu May 12 15:53:51 CEST 2022:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0180-b88c-1a61-00000c9d8ac0 
+Sun May 15 20:39:30 CEST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0180-c904-b427-0000059aba00 
 on database directory /home/christoph/Dev/LearningSpark/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
 Loaded from file:/opt/spark/jars/derby-10.14.2.0.jar
 java.vendor=Private Build
@@ -8,6 +8,6 @@ java.runtime.version=11.0.15+10-Ubuntu-0ubuntu0.20.04.1
 user.dir=/home/christoph/Dev/LearningSpark
 os.name=Linux
 os.arch=amd64
-os.version=5.13.0-40-generic
+os.version=5.13.0-41-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
