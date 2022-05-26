@@ -10,7 +10,7 @@ This repository also contains the end-to-end examples from the book's [github re
 
 ## Status
 
-Chapter 2-7 done. Starting to work on chapter 8 (Structured Streaming) now. 
+Chapter 2-8 done. Starting to work on chapter 9 (Delta Lake) now. 
 
-*Christoph Windheuser - May 16, 2022*
+*Christoph Windheuser - May 26, 2022*
 
