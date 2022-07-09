@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cwi/Dev/LearningSpark/mlruns/0/f81fb658fea842d2912a41364932e00c/artifacts
+end_time: 1657397527299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: f81fb658fea842d2912a41364932e00c
+run_uuid: f81fb658fea842d2912a41364932e00c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1657393486780
+status: 3
+tags: []
+user_id: cwi
